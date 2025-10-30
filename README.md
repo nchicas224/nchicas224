@@ -1,12 +1,4 @@
-# 👋 Welcome! My name is: 
-
-<p align="center">
-  <img src="https://github.com/nchicas224/nchicas224/blob/main/assets/profile_banner(2).png" alt="Banner Image" width="75%"/>
-</p>
-
----
-
-## 💡 About Me  
+# Hey there, I'm Nelson!👋
 
 I'm a **Bilingual Full-Stack Software Engineer & Automation Developer** with a passion for building **AI-powered, cloud-native systems** that solve real-world problems.  
 I combine **backend automation**, **secure architecture**, and **frontend usability** to deliver solutions that are efficient, scalable, and cost-conscious.  
@@ -67,23 +59,6 @@ I combine **backend automation**, **secure architecture**, and **frontend usabil
   <a href="https://github.com/nelsonchicas/react-inventory-app">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=nelsonchicas&repo=react-inventory-app&theme=tokyonight" />
   </a>
-</p>
-
----
-
-## 📊 GitHub Stats  
-
-<p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=nchicas224&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nchicas224&layout=compact&langs_count=10&theme=tokyonight"/>
-</p>
-
----
-
-## 📈 Contribution Graph  
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nchicas224&theme=tokyo-night&hide_border=true&area=true" alt="Nelson's GitHub Activity Graph"/>
 </p>
 
 ---
