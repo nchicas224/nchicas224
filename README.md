@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Nelson Chicas  
+# 👋 Welcome! My name is: 
 
 <p align="center">
   <img src="https://github.com/nchicas224/nchicas224/blob/main/assets/profile_banner.png" alt="Banner Image" width="100%"/>
