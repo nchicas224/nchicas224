@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Nelson Chicas  
 
 <p align="center">
-  <img src="https://i.imgur.com/uy4R5Hz.png" alt="Banner Image" width="100%"/>
+  <img src="https://github.com/nchicas224/nchicas224/blob/main/assets/profile_banner.png" alt="Banner Image" width="100%"/>
 </p>
 
 ---
