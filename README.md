@@ -1,4 +1,4 @@
-# Hey there, I'm Nelson!👋
+<img src="https://github.com/nchicas224/nchicas224/blob/main/assets/github-header-banner%20(1).png" width="100%"/>
 
 I'm a **Bilingual Full-Stack Software Engineer & Automation Developer** with a passion for building **AI-powered, cloud-native systems** that solve real-world problems.  
 I combine **backend automation**, **secure architecture**, and **frontend usability** to deliver solutions that are efficient, scalable, and cost-conscious.  
