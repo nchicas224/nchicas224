@@ -74,9 +74,8 @@ I combine **backend automation**, **secure architecture**, and **frontend usabil
 ## 📊 GitHub Stats  
 
 <p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=nelsonchicas&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=nelsonchicas&theme=tokyonight"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nelsonchicas&layout=compact&langs_count=10&theme=tokyonight"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=nchicas224&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nchicas224&layout=compact&langs_count=10&theme=tokyonight"/>
 </p>
 
 ---
@@ -84,7 +83,7 @@ I combine **backend automation**, **secure architecture**, and **frontend usabil
 ## 📈 Contribution Graph  
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nelsonchicas&theme=tokyo-night&hide_border=true&area=true" alt="Nelson's GitHub Activity Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nchicas224&theme=tokyo-night&hide_border=true&area=true" alt="Nelson's GitHub Activity Graph"/>
 </p>
 
 ---
