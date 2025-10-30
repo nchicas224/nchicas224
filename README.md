@@ -1,7 +1,7 @@
 # 👋 Welcome! My name is: 
 
 <p align="center">
-  <img src="https://github.com/nchicas224/nchicas224/blob/main/assets/profile_banner.png" alt="Banner Image" width="100%"/>
+  <img src="https://github.com/nchicas224/nchicas224/blob/main/assets/profile_banner.png" alt="Banner Image" width="60%"/>
 </p>
 
 ---
