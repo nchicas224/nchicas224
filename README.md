@@ -44,13 +44,13 @@ I combine **backend automation**, **secure architecture**, and **frontend usabil
 ## 📌 Featured Repositories  
 
 <p align="center">
-  <a href="https://github.com/nelsonchicas/invoice-automation-backend">
+  <a href="https://github.com/nchicas224/invoice-automation-backend">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=nelsonchicas&repo=invoice-automation-backend&theme=tokyonight" />
   </a>
-  <a href="https://github.com/nelsonchicas/invoice-automation-frontend">
+  <a href="https://github.com/nchicas224/invoice-automation-frontend">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=nelsonchicas&repo=invoice-automation-frontend&theme=tokyonight" />
   </a>
-  <a href="https://github.com/nelsonchicas/powershell-distribution-updater">
+  <a href="https://github.com/nchicas224/powershell-distribution-updater">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=nelsonchicas&repo=powershell-distribution-updater&theme=tokyonight" />
   </a>
 </p>
