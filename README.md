@@ -45,13 +45,13 @@ I combine **backend automation**, **secure architecture**, and **frontend usabil
 
 <p align="center">
   <a href="https://github.com/nchicas224/invoice-automation-backend">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nelsonchicas&repo=invoice-automation-backend&theme=tokyonight" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nchicas224&repo=invoice-automation-backend&theme=tokyonight" />
   </a>
   <a href="https://github.com/nchicas224/invoice-automation-frontend">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nelsonchicas&repo=invoice-automation-frontend&theme=tokyonight" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nchicas224&repo=invoice-automation-frontend&theme=tokyonight" />
   </a>
   <a href="https://github.com/nchicas224/powershell-distribution-updater">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nelsonchicas&repo=powershell-distribution-updater&theme=tokyonight" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nchicas224&repo=powershell-distribution-updater&theme=tokyonight" />
   </a>
 </p>
 
