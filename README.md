@@ -53,14 +53,8 @@ I combine **backend automation**, **secure architecture**, and **frontend usabil
   <a href="https://github.com/nchicas224/allstaff-auto-update">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=nchicas224&repo=allstaff-auto-update&theme=tokyonight" />
   </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/nelsonchicas/kart-racing-game">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nelsonchicas&repo=kart-racing-game&theme=tokyonight" />
-  </a>
-  <a href="https://github.com/nelsonchicas/react-inventory-app">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nelsonchicas&repo=react-inventory-app&theme=tokyonight" />
+  <a href="https://github.com/nchicas224/jme3-fast-kart">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nchicas224&repo=jme3-fast-kart&theme=tokyonight" />
   </a>
 </p>
 
