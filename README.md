@@ -50,8 +50,8 @@ I combine **backend automation**, **secure architecture**, and **frontend usabil
   <a href="https://github.com/nchicas224/invoice-automation-frontend">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=nchicas224&repo=invoice-automation-frontend&theme=tokyonight" />
   </a>
-  <a href="https://github.com/nchicas224/powershell-distribution-updater">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nchicas224&repo=powershell-distribution-updater&theme=tokyonight" />
+  <a href="https://github.com/nchicas224/allstaff-auto-update">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nchicas224&repo=allstaff-auto-update&theme=tokyonight" />
   </a>
 </p>
 
